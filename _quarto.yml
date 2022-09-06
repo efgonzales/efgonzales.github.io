@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "efgonzales.github.io"
+  title: "Elise Gonzales"
   navbar:
+    background: secondary
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +13,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: sandstone
+      dark: slate
     css: styles.css
     toc: true
 

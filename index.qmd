@@ -1,5 +1,13 @@
 ---
-title: "efgonzales.github.io"
+title: "Elise Gonzales"
+image: headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/elise-gonzales/
+    - text: Email
+      href: mailto:efgonzales@bren.ucsb.edu
 ---
-
-This is my website.
