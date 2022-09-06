@@ -4,7 +4,7 @@ image: headshot.jpg
 about:
   template: trestles
   image-shape: round
-  image-width: 15em
+  image-width: 16em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/elise-gonzales/
